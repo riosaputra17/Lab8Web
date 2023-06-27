@@ -1,10 +1,5 @@
 # Codeigniter 4
 ### Rio Saputra 312110533
-## Pertemuan 9
-## Membuat Halaman Web sederhana menggunakan CodeIgniter
-
-## Hasil Program
-![image](https://github.com/riosaputra17/Lab7web/assets/92787567/2f03607f-e7f2-4e1c-b94b-67f1843d4ce8)
 
 ## Pertemuan 10
 ### Membuat CRUD dengan CodeIgniter
